@@ -158,3 +158,17 @@ img {
 	background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
 	text-decoration: none;
 }
+
+@media only screen and (max-width: 1024px) {
+	.navbar {
+		list-style: none;
+		display: flex;
+		justify-content: space-between;
+		margin-left: auto;
+	}
+
+	.navbar li {
+		display: block;
+		margin: 8px;
+	}
+}
