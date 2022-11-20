@@ -1,10 +1,10 @@
 # Portfolio Project: My personal portfolio website
 
-The main goal of this project is to build a personal portfolio site, a static website where the projects, that were build in Codecademy Full-Stack Engineering Path, can be shared.
+The main goal of this project is to build a personal portfolio site, a static website where the projects, that were build in **Codecademy Full-Stack Engineering Path**, can be shared.
 
 ## General info:
 
-This project is a part of Codecademy Full-Stack Engineering Path
+This project is a part of **Codecademy Full-Stack Engineering Path**
 
 ## Project Objectives:
 
@@ -26,4 +26,10 @@ This project is a part of Codecademy Full-Stack Engineering Path
  7. JavaScript.
  
 ### Created by [Raouf](https://github.com/Raoufroufa)
-### feel free to contact me :) .
+
+### Contributions, issues, and feature requests are welcome!  Feel free to contact me 😃 .
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
