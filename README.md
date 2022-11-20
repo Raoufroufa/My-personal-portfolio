@@ -27,7 +27,7 @@ This project is a part of **Codecademy Full-Stack Engineering Path**
  
 ### Created by [Raouf](https://github.com/Raoufroufa)
 
-### Contributions, issues, and feature requests are welcome!  Feel free to contact me 😃 .
+### Contributions, issues, and feature requests are welcome!  Feel free to [contact me](https://github.com/Raoufroufa) 😃 .
 
 ## Show your support
 
