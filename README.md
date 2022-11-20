@@ -12,8 +12,8 @@ This project is a part of Codecademy Full-Stack Engineering Path
   + Add at least one interactive feature using JavaScript.
   + Use Git version control.
   + Use the command line and file navigation.
-  + Develop locally on your computer.
-  + Deploy your site to the web using GitHub Pages.
+  + Develop locally on the own computer.
+  + Deploy the site to the web using GitHub Pages.
   
 ## Technologies:
 
