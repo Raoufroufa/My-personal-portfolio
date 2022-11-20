@@ -8,22 +8,22 @@ This project is a part of Codecademy Full-Stack Engineering Path
 
 ## Project Objectives:
 
-  +Build a website using HTML, CSS
-  +Add at least one interactive feature using JavaScript
-  +Use Git version control
-  +Use the command line and file navigation
-  +Develop locally on your computer
-  +Deploy your site to the web using GitHub Pages
+  + Build a website using HTML, CSS.
+  + Add at least one interactive feature using JavaScript.
+  + Use Git version control.
+  + Use the command line and file navigation.
+  + Develop locally on your computer.
+  + Deploy your site to the web using GitHub Pages.
   
 ## Technologies:
 
- 1-HTML
- 2-CSS
- 3-Markdown
- 4-Git
- 5-GitHub
- 6-Visual Studio Code
- 7-JavaScript
+ 1- HTML.
+ 2- CSS.
+ 3- Markdown.
+ 4- Git.
+ 5- GitHub.
+ 6- VS Code.
+ 7- JavaScript.
  
 ### Created by [Raouf](https://github.com/Raoufroufa)
 ### feel free to contact me :) .
