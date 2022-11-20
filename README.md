@@ -1,6 +1,6 @@
 # Portfolio Project: My personal portfolio website
 
-The main goal of the project is to build a personal portfolio site, a static website where the projects, that were build in Codecademy Full-Stack Engineering Path, can be shared.
+The main goal of this project is to build a personal portfolio site, a static website where the projects, that were build in Codecademy Full-Stack Engineering Path, can be shared.
 
 ## General info:
 
